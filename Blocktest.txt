@@ -1,2 +1,4 @@
 telegraaf.nl
+detelegraaf.nl
 www.telegraaf.nl
+www.detelegraaf.nl
