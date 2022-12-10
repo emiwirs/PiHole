@@ -2,3 +2,19 @@
 ## detelegraaf.nl
 ## www.telegraaf.nl
 ## www.detelegraaf.nl
+
+cdn.amplitude.com
+connectivity-check.ubuntu.com
+eas3.msg.t-mobile.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firefox.settings.services.mozilla.com
+getpocket.cdn.mozilla.net
+health.apple.com
+metrics.icloud.com
+registry.my-netdata.io
+self.events.data.microsoft.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
+widget-mediator.zopim.com
+
