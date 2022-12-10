@@ -18,3 +18,28 @@ upload.fp.measure.office.com
 upload2.fp.measure.office.com
 widget-mediator.zopim.com
 
+4sqi.com
+adcolony.com
+adjust.com
+airship.com
+amplitude.com
+revenuecat.com
+appcenter.ms
+appsflyer.com
+urbanairship.com
+crashlytics.com
+doubleclick.net
+fcmtoken.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+(I figured blocking googleapis.com completely breaks some apps)
+foursquare.com
+googleads.g.doubleclick.net
+googleanalytics.com
+gstatic.com (could break some stuff)
+it2media.de
+optimizely.com
+play.googleapis.com
+yelpcdn.com
