@@ -43,3 +43,14 @@ it2media.de
 optimizely.com
 play.googleapis.com
 yelpcdn.com
+
+firebase-settings.crashlytics.com
+adsmodule-a6166.firebaseio.com
+blinding-heat-4778.firebaseio.com
+famobi-01.firebaseio.com
+proximiio-bus.firebaseio.com
+firebaselogging.googleapis.com
+mononoteapp.firebaseio.com
+ads-game-187f4.firebaseapp.com
+
+loginonline-com.firebaseapp.com
