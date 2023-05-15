@@ -34,11 +34,15 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseremoteconfig.googleapis.com
-(I figured blocking googleapis.com completely breaks some apps)
+
+# (I figured blocking googleapis.com completely breaks some apps)
 foursquare.com
 googleads.g.doubleclick.net
 googleanalytics.com
-gstatic.com (could break some stuff)
+
+# (could break some stuff)
+gstatic.com 
+
 it2media.de
 optimizely.com
 play.googleapis.com
