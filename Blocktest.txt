@@ -54,3 +54,8 @@ mononoteapp.firebaseio.com
 ads-game-187f4.firebaseapp.com
 
 loginonline-com.firebaseapp.com
+
+# Adware SVB
+pdfconverterpower.com
+searchpoweronline.com
+pdfconverterpower.net
