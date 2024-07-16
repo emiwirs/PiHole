@@ -67,5 +67,8 @@ pdfconverterpower.net
 # irritante vpn oplossing
 vpnnederland.nl
 
+# sabnzbd
+self-test.sabnzbd.org
+
 # Reclame site
 trenzlix.com
