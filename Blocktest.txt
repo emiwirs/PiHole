@@ -72,3 +72,6 @@ self-test.sabnzbd.org
 
 # Reclame site
 trenzlix.com
+
+#SpamURL
+yesgametoday.com
