@@ -1,0 +1,1077 @@
+# : List of C2 + Games Domains - BAD BOX 2.0
+# # Last modified: 13 Sep 2025 06:35 UTC
+# # Version: 2509130635
+# # Description: Domains classified as malware, phishing or adware running on infected Android TV Box
+# # Use this list to enhance Pi-hole's default filtering capabilities and block known threats, trackers, and unwanted domains.
+# # Author: https://www.humansecurity.com/
+# # License: GNU General Public License v3.0
+# # Source: https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/#models
+# # Blocked domains: 1063
+# #
+# #===============================================================
+# #
+# # --- Group block ---
+# # [C2 Domains]
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.7
+170.33.12.185
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+85.214.228.140
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+104.21.26.221
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+67.159.17.132
+46.165.199.7
+188.114.97.0
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.9
+34.41.139.193
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+38.249.24.119
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+34.41.139.193
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.9
+46.165.199.9
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+46.165.199.7
+# # --- Group block ---
+# # [H5-Domain-List]
+216.239.32.21
+103.164.173.46
+160.153.0.112
+# casualgame.fun
+216.239.32.21
+# nhaya.fun
+# techieinfoo.com
+216.239.32.21
+43.255.106.233
+# zalivka.animation2
+# fivemobile.thescore
+216.239.32.21
+5.175.215.249
+# sparkgamey.com
+188.114.96.0
+216.239.32.21
+# uptogane.com
+188.114.96.0
+52.201.53.166
+172.104.203.186
+150.109.113.123
+# windjoy.fun
+157.90.33.73
+188.114.96.0
+104.21.24.224
+# hgtv.watcher
+104.21.49.8
+139.59.48.93
+104.18.3.186
+# cocolans.fun
+# organgame.top
+159.195.21.122
+# brighlttips.com
+# playtopia.pro
+107.167.63.152
+142.251.142.193
+188.114.96.0
+# crazyfantasygame.com
+188.114.97.0
+# newsspotz.com
+# shenghuijuzhifeng.top
+# zippygamez.com
+82.112.238.60
+155.102.167.199
+# gammygamef.com
+# shinygamey.com
+# hopgameu.com
+# sparknewsz.com
+# rapidgamez.com
+# uptogamez.com
+# idlemaze.com
+# smartgamey.com
+# smartgamey.com
+# tombgame.com
+104.21.5.29
+# puregygame.com
+# originweb.xyz
+157.90.33.73
+157.90.33.73
+157.90.33.73
+# techgane.com
+# bravegamey.com
+# redbudgames.com
+# tenergame.com
+# sunrisegamey.com
+172.239.57.117
+172.239.57.117
+# syreafsgame.com
+# begoniagames.com
+# diceygames.top
+# dipvy.com
+# ditizhan.com
+198.49.23.145
+46.165.199.7
+# dorky7.org
+# dreamytranq.com
+# dwz.cocolans.fun
+# dwz.naxru.top
+# dwz.opyaon.fun
+139.162.181.76
+# dwz.poping.fun
+# dwz.povcar.top
+52.201.53.166
+188.114.96.4
+103.224.182.219
+# econotrend.us
+# elixeryinfo.com
+# exactgames.top
+# expertisetip.com
+104.18.6.200
+# eyris.fun
+# f.gameleb.com
+# f.swiftflexa.com
+# fanciestfood.com
+# fashion.firenzeire.com
+# fateplay.fun
+103.224.182.216
+# fayrib.fun
+46.165.199.7
+104.18.6.200
+# finance.insightivetip.com
+# finance.misffgame.com
+# finance.phriao.com
+# finance.quixoteinfo.com
+# financitime.com
+188.114.97.4
+# flavorfrenzytop.top
+172.233.221.214
+# fofopub.fun
+# food.vibrantews.com
+# foodhunters.top
+188.114.97.0
+120.26.84.93
+47.254.56.236
+# funnygamespot.com
+104.21.16.116
+104.247.81.99
+# game.hexwin.fun
+104.21.9.73
+# gamefinder.cc
+# gamefooo.com
+# gameheatwave.com
+46.165.199.7
+104.21.19.195
+# gamelov.online
+104.21.62.215
+# gamerplay005.space
+# gamerplay59.space
+# gamestation.top
+# gamevaults.top
+# gamewave.us
+# gaminggoing.xyz
+# gas.sinel.fun
+# ge.opyaon.fun
+46.165.199.7
+# ggcyeah.fun
+# gogjoy.fun
+46.165.199.7
+# gooocatty.com
+# gphb.ravergames.com
+103.224.182.242
+# hairlyfairy.com
+188.114.97.0
+# health.troquerde.com
+# heartgames.top
+# hexwin.fun
+# hiddenpizzagames.com
+# hockeygames.top
+188.114.97.0
+# how.tel-goal.com
+# hunkgame.top
+# infinitytop.top
+# innfuns.com
+# insurance.quixoteinfo.com
+# invest.fincoin.top
+# investaifuture.com
+# investdiary.top
+# jaeergame.com
+# jamgame.top
+# jazzy4.org
+# jigsawl.com
+# jo2yx.com
+# jokez.fun
+# jumblefunny.com
+# jumbogames.top
+# jumboinsur.com
+# junglygames.top
+# keelgames.top
+# keengames.top
+# kittyjoy.fun
+# knowinggames.top
+# koeppwealth.com
+# kog-goal.com
+# leadonegame.com
+# lengergames.top
+# linkinfox.com
+188.114.96.0
+# lividgamey.com
+# loan-3346973.info
+# loftjoy.fun
+# lopub.fun
+# luno.fun
+# magekeo.com
+# mancures.com
+# marouchoc.com
+# maszzi.com
+46.165.199.7
+# mazygame.top
+# miyogame.top
+# mongchaigame.com
+# moorick.com
+# mubacare.com
+13.223.25.84
+185.8.237.22
+# nc.fofopub.fun
+# nc.nhaya.fun
+# nc.sloup.top
+# nc.tel-goal.com
+172.233.221.214
+# nebulegames.top
+64.190.63.222
+# newinfostops.com
+# news.healthute.com
+# newsechoesworld.com
+# newsflashers.top
+13.223.25.84
+# nicekeptgame.com
+# nicelovinggame.com
+# nicheshu.com
+# nikejoy.fun
+104.21.36.198
+# nk.bluejoy.fun
+# nk.destinyjoy.fun
+# nk.fun-goal.com
+# nk.luno.fun
+# nk.poping.fun
+# nk.povcar.top
+# nk.sloup.top
+# nk.tel-goal.com
+104.21.49.8
+# nk.tinux.fun
+# nk.vastjoy.fun
+52.201.53.166
+# nk.woffty.fun
+# noodlesd.com
+185.8.237.22
+# np.tinux.fun
+46.165.199.7
+# nszc.rokiread.com
+# ob.povcar.top
+# ob.windjoy.fun
+104.21.94.81
+# oop-goal.com
+# opt.fofopub.fun
+# optifuelknow.com
+# opyaon.fun
+# ovalgames.top
+54.218.111.227
+# part-time-jobs-4794711.zone
+# peaknewsf.com
+# peoapp.net
+# ph.fofopub.fun
+# pilrimage.com
+# pixarz.com
+# play.arking.fun
+# play.ashgame.top
+# play.fun-goal.com
+# play.h5gameapp.com
+# play.hot9game.com
+# play.kimgame.com
+188.114.97.0
+# pluslikeplay.com
+188.114.96.0
+# pokerjoy.fun
+# poshgames.top
+104.21.46.4
+104.21.12.83
+# pretydeni.com
+# proofgames.top
+# puzzleplaza.pro
+# quadgames.top
+# quantrichy.com
+46.165.199.7
+# rdm.tinux.fun
+157.90.33.74
+46.165.199.7
+# rezzgame.top
+52.40.42.113
+# runcel.fun
+103.224.182.213
+# rustinvest.top
+104.21.36.198
+188.114.97.0
+# rw.tofix.fun
+# rw.zlon.fun
+# s.povcar.top
+# s1.digifuseinfo.com
+46.165.199.7
+# screenstouch.com
+# search.googledouble.top
+# semi-fire.com
+# serenenews.com
+# shiftyturn.com
+# slissam.com
+8.218.208.240
+# sokida.lopsgame.com
+# sokida.peelgames.com
+# solargames.top
+# ss.tinux.fun
+# stonegames.top
+# studiosnews.com
+# succstc.com
+# sumokata.com
+# swiftflownews.com
+# tailbonetie.com
+# tailbontie.com
+# tamotoo.com
+# techinforoom.com
+13.248.213.45
+# teckx.net
+108.186.76.79
+# testyourlimits.top
+# thesnarf.net
+# thrivewellnessworld.com
+# tinux.fun
+# toppedgames.top
+# tranquilinfo.com
+# travel.cightingle.com
+# travel.cleverinfy.com
+# travel.seviotive.com
+103.224.182.213
+188.114.97.0
+# trippher.com
+# tx.lopub.fun
+188.114.96.0
+172.104.149.86
+# ubt.poping.fun
+# ubt.sloup.top
+188.114.97.0
+# url-app.com
+# vastjoy.fun
+# vexing.fun
+91.195.240.12
+# vividexsnews.com
+# voekgame.com
+104.21.89.87
+# vousgame.com
+# vrshoppinggame.com
+104.21.36.198
+# w.sinel.fun
+# wackygames.top
+# waddleplayer.ink
+104.21.80.126
+# widegames.top
+# wisdomgames.top
+# woffty.fun
+87.229.34.65
+# wooolgame.com
+# wtg.sinel.fun
+104.21.49.8
+# accesshealthworldwide.org
+144.48.59.74
+# americagame.top
+198.54.116.83
+# balecrina.com
+# bdeath.com
+# blissfultop.top
+# bluutian.com
+# buygame.top
+# buzzingnews246.top
+# buzzingnow.top
+92.249.46.118
+# cacylide.com
+# calrnner.com
+# cancercuisine.top
+# cardforecast.top
+# carsgame.top
+# celestialechoes.top
+# cidanfinance.com
+# cinthhy.com
+# culinarydreams.top
+# daareco.com
+# dailyhumor.top
+# dailynewsfunny.top
+# delienanch.com
+# delishcravings56.top
+# delishnoms777.top
+# developidea.space
+# digifuseinfo.com
+# domaingame.top
+# dreamcraftxpress.top
+# dreamyscope.top
+# elitegamey.com
+# elitnewsy.com
+# enchantnovels99.top
+# epicenewspro.com
+# epicnarrative.top
+# epicplayr.top
+# europegame.top
+# fictionplanet.top
+# financialknowledge.online
+# firebytegaming.top
+# flavorburst.top
+# flavorfulfiction.top
+# foodiefables123.top
+# foodiefiesta.top
+# foodiemagicbox.top
+# foodiemaster.top
+# foodiequest.top
+# foodietopreads.top
+# funfiction567.top
+# funquest1010.top
+188.114.97.4
+# funzone2play.top
+103.224.212.212
+188.114.96.4
+# gamechampionx.top
+# gamefever2023.top
+188.114.96.0
+104.21.91.136
+# gamematrixtop.top
+# gamemaximus.top
+# gamenewstales.top
+# gamenewswire.top
+# gameprime1.top
+# gameprimex.top
+# gamepulsepro.top
+# gameraven.top
+# gamercander.com
+# gamerealmquest.top
+# gamesgame.top
+# gameslnv.com
+# gamesplusx.com
+# gametoptidings.top
+104.21.75.36
+# gamingjoy111.top
+# gamingnest.top
+# gamingnewsjoy.top
+# gamingupdates.top
+# gamxtasy.com
+# gentealn.com
+# gomboy.com
+# h5gameapp.com
+# hot9game.com
+# humbertohah.com
+# inforokplus.com
+# innovanetinfo.com
+# insurancegame.top
+# jacperhos.com
+156.226.68.251
+# joyfulnovels1.top
+# ladeaccot.com
+# latestnewser.top
+# laughterzone.top
+# lightpaly.com
+# liplenty.com
+# magicjourney123.top
+# nefetair.com
+# newsbuzz.top
+# newsbuzzhub.top
+# newsbuzztop.top
+# newsflash246.top
+# newsfuninsight.top
+# newsjungle.top
+# newsmakers246.top
+# newstopfictionv.top
+# newstoptales.top
+# novelmagic.top
+# novelmagic123.top
+# novelquesttop.top
+# novelwizards.top
+# oceantwirl.com
+# odysseyhorizon.top
+# oyute.com
+# packagegame.com
+# pastaties.com
+# pepach.com
+# perksgame.com
+46.165.199.7
+# playfulgamefun.top
+# playfulquest12.top
+# playhivez.top
+# playmasteshr.top
+# playwarrior.top
+# politicxinfo.com
+# polywo.com
+# poptour.top
+# progamemaster.top
+# progamerz.top
+# puzzlid.com
+# qsadewnt.com
+# quantumrisehub.top
+# quickplaypro.top
+# quickwinning.top
+# quirkytests101.top
+# quizgeek789.top
+# quizwhiz1010.top
+# quizzytests101.top
+# radianttop.top
+# realestategame.top
+52.40.42.113
+# rianglo.com
+# rpeditnews.com
+# samofinance.com
+# savoryplanet.top
+# solareclipsex.top
+# solitudetop.top
+# speedgamer.top
+# starcrest.top
+# starglowingx.top
+# starguide.top
+# starlightly.top
+# starpowerinfo.top
+# storygalaxy555.top
+# storysphere.top
+# storytellers12.top
+# storytime999.top
+# swiftaihubx.com
+# swiftlytips.com
+# swifttipn.com
+# symdoom.com
+# tanhcole.com
+# tarotdelighter.top
+# tarotfun567.top
+# tarotfunmania.top
+# tarotfunzonemagic.top
+# tarotgateway777.top
+# tarotguru888.top
+# tarotinsiders.top
+# tarotinsight55.top
+# tarotinsighter.top
+# tarotinsightful.top
+# tarotinsightser.top
+# tarotinspider.top
+# tarotjoygames.top
+# tarotmagicfun.top
+# tarotmastery.top
+# tarotmysterly.top
+# tarotmystics9.top
+# tarotrealm999.top
+# tarotrealmtop.top
+# tarottalesfun.top
+# tarotwonders89.top
+# tarotzone.top
+# tastefulstory.top
+# tastybites2022.top
+# tastydelites56.top
+# tastygamer.top
+# tastygourmetjoy.top
+# tastynomsdelightly.top
+# tastyorbits.top
+# tastytarotfoodv.top
+# techbyteinfo.com
+# techgyroinfo.com
+# techyinfz.com
+# testgeeklab.top
+# testjoywonder.top
+# testmaze.top
+# testplatform.top
+# topnewswave24.top
+# topnewswave99.top
+# tradegame.top
+# trisscheng.com
+# tubeard.com
+# utritontips.com
+# vopfit.com
+# vvivireal.com
+# wadadeis.com
+# wirelessgame.top
+# wowenjoys.com
+# yummyeats888.top
+# zentrixinfo.com
+# zesttipsz.com
+185.158.138.4
+# xenicgames.top
+77.37.53.31
+46.165.199.7
+46.165.199.7
+46.165.199.7
+# ym.nhaya.fun
+# ym.runcel.fun
+# ym.tel-goal.com
+# yongo.fun
+188.114.96.0
+46.165.199.7
+188.114.96.0
+# zentraxtips.com
+# zinkgame.top
+# zlon.fun
+# 179wg.com
+18.239.208.101
+0.0.0.0
+188.114.97.0
+104.21.49.8
+52.201.53.166
+# abs.fun-goal.com
+188.114.97.0
+185.8.237.22
+# aft.fofopub.fun
+# aft.lopub.fun
+# airecer.com
+46.165.199.7
+103.224.212.216
+# alphagames.top
+# am.fofopub.fun
+188.114.97.0
+172.104.149.86
+104.21.49.8
+172.237.145.27
+# anc.fofopub.fun
+# anc.fun-goal.com
+# antonng.com
+# antplay.fun
+# arisy.fun
+# arking.fun
+104.21.49.8
+104.21.86.165
+# ashimay.com
+154.84.46.245
+# avicled.com
+# ax.runcel.fun
+89.208.97.49
+104.21.36.198
+# beauty-meow.com
+# benlux.fun
+64.190.63.222
+104.21.49.8
+# bluejoy.fun
+# blunt.fun
+# boffo5.org
+216.198.79.1
+104.18.6.200
+103.224.182.211
+# brightinfu.com
+46.165.199.7
+188.114.96.0
+# buzynews.com
+# buzztub.site
+# bytenews.xyz
+# c.misffgame.com
+188.114.97.0
+# canball.fun
+# care-9478143.xyz
+# causecentural.com
+# ccaixa.com
+46.165.199.7
+# ceedgame.top
+188.114.96.4
+# clevory2.com
+100.31.31.233
+# cubicgames.top
+44.233.250.75
+# days4.com
+# des.fun-goal.com
+# des.luno.fun
+# destinyjoy.fun
+46.165.199.7
+# gamement.cc
+# gamerwin.cc
+# hkpuzzlegame.pro
+# kimiz.fun
+# mobgame.pro
+# naxru.top
+# nk.crazyjoy.fun
+# playenemygamer.com
+# poping.fun
+# povcar.top
+# simulationgame.xyz
+# sinel.fun
+# sloup.top
+216.150.16.193
+# thegamehub.pro
+# tofix.fun
+# waves.ink
+155.102.167.200
+72.60.153.213
+# evdenevdenevenakliyatgroup.icu
+# eventplanningservice.icu
+# facelifttreatments.icu
+# empresaderestauracindeviviendas.icu
+# oilswaterseparator.icu
+# homeconstructions.icu
+# laserhairtransplant.icu
+# hairskintransplant.icu
+# homeconstructionllc.icu
+# hairtransplantspecialist.icu
+# breastliftusa.icu
+# forkliftsrental.icu
+104.21.6.28
+# homeconstructionservices.icu
+# stainlesssteelmanufacturersusa.icu
+# forkliftgearrental.icu
+# customcommercialcranes.icu
+# offlinequiz.com
+# kneepainspecialists.icu
+216.239.32.21
+# funny-playing.com
+# gearedforgamers.com
+104.21.48.75
+# newswonderful.com
+# 1day.gift
+188.114.96.4
+# adstormsurge.com
+# arcade.funforge.site
+# arcadeatlas.pro
+13.223.25.84
+# cooldeal.fun
+104.21.29.49
+18.239.208.38
+# echoloot.pro
+13.248.169.48
+# elkgame.com
+# erp.onceisnotenough.ca
+# funforge.site
+# g1.h5game1.com
+# g1.toolol.top
+# game.echoloot.pro
+# game.playbuzz.online
+172.217.17.211
+172.217.17.211
+# gamecatter.com
+# gamecooky.com
+# gamehunterrealm.top
+13.248.169.48
+104.21.68.245
+# gameretroarcade.top
+# gamescape.site
+# gamesh5.co
+155.102.167.197
+# gpdz.jzfreegames.com
+# gym.zingoinfo.com
+188.114.96.4
+# hd04.gamesgarden.info
+216.239.32.21
+46.165.199.7
+# ideaechoes.top
+# intellix.top
+# led06.gamesgarden.info
+# pixelquestarena.fun
+# play.echoloot.pro
+# play.funforge.site
+# playcoxen.pro
+# playcubicle.com
+# playport.site
+41.222.32.25
+# sitegrab.xyz
+# stylaxu.trendenclave.com
+# techiepoint.online
+# teun09.gamesgarden.info
+# totoro029.jzfreegames.com
+# totoro040.jzfreegames.com
+13.223.25.84
+188.114.97.0
+188.114.96.0
+188.114.97.0
+188.114.97.0
+# bniz.top
+104.21.32.69
+104.21.57.230
+# clearinfe.com
+# cryptogamef.com
+# dceuneb.com
+188.114.97.0
+104.21.36.72
+188.114.96.0
+# gamemini.fun
+# ghgqfzqlhw.com
+188.114.97.0
+# hopgameu.com
+# infohivex.com
+188.114.96.0
+104.21.73.132
+104.21.76.152
+188.114.96.0
+104.21.89.129
+188.114.97.0
+188.114.96.0
+# sparkinfoy.com
+# sparknewsz.com
+188.114.96.0
+188.114.97.4
+188.114.96.0
+# vkim.top
+# vowt.top
+104.21.42.203
+# workingusa.net
+208.98.43.14
+72.60.153.213
+# evdenevdenevenakliyatgroup.icu
+# eventplanningservice.icu
+# facelifttreatments.icu
+# empresaderestauracindeviviendas.icu
+# oilswaterseparator.icu
+# homeconstructions.icu
+# laserhairtransplant.icu
+# hairskintransplant.icu
+# homeconstructionllc.icu
+# hairtransplantspecialist.icu
+# breastliftusa.icu
+# forkliftsrental.icu
+104.21.6.28
+# homeconstructionservices.icu
+# stainlesssteelmanufacturersusa.icu
+# forkliftgearrental.icu
+# customcommercialcranes.icu
+# offlinequiz.com
+# kneepainspecialists.icu
+216.239.32.21
+# funny-playing.com
+91.195.240.12
+# gearedforgamers.com
+104.21.48.75
+# agilenovax.com
+13.248.169.48
+# fixgamey.com
+# game.brighugame.com
+# rapidogame.com
+# techygamezone.com
+# quanitumgamer.com
+# sparkgamet.com
+# Lydelah.com
+188.114.96.0
+# aimoongames.com
+156.239.74.121
+# balconygame.com
+13.248.169.48
+# bathgamer.com
+47.88.85.171
+47.88.85.171
+103.224.182.250
+# broomgamer.com
+# buttgamer.com
+44.232.173.249
+# caterpillargame.com
+# ceregame.com
+# cheekgames.com
+# cheestgame.com
+# chupgame.com
+# coatgames.com
+188.114.97.0
+# custgame.com
+# cutgamer.com
+23.105.175.18
+216.245.197.44
+# dependgames.com
+# detergame.com
+# detergames.com
+# digacoupon.com
+# digressgames.com
+# dispgame.com
+104.21.39.132
+# draingamer.com
+# drumgamer.com
+# dryergames.com
+# dulegames.com
+# dustpangame.com
+# eyebrowgamer.com
+168.76.131.252
+188.114.97.0
+47.254.56.236
+13.223.25.84
+# game.aialeek.com
+47.254.56.236
+# game.boomgamef.com
+43.130.57.171
+# game.dromeling.com
+# game.fernetari.com
+# game.knighzgame.com
+# game.legendgamey.com
+# game.mindflexa.com
+# game.newsavenuey.com
+# game.noclemoon.com
+# game.returnlitnews.com
+# game.rnalaler.com
+# game.sereneevoke.com
+# game.smartgamey.com
+# game.tuusonit.com
+# game.zhengxuitnews.com
+# gamehate.com
+# gamepupu.com
+# gardeniagames.com
+# guanacogame.com
+# hamgamer.com
+# hampergame.com
+# hampergames.com
+# helplessgame.com
+188.114.96.0
+# ikesotou.com
+# lagegame.com
+104.21.92.141
+# lintgame.com
+# lobgamer.com
+# luggame.com
+168.76.76.21
+# measurgame.com
+# mentgame.com
+# mopgamer.com
+# mowergame.com
+# mustgamer.com
+# navelgame.com
+# neckgames.com
+# news.aimoongames.com
+13.223.25.84
+# organgame.com
+104.21.88.134
+172.234.27.37
+# peagamer.com
+104.21.83.157
+104.21.74.185
+# playshichang.com
+188.114.96.0
+# possfinance.com
+# postergamer.com
+154.212.172.29
+# qcggow.com
+# qxcsf.com
+188.114.97.0
+# resergame.com
+# secgamer.com
+# seedsgames.com
+# shedgamer.com
+# showergamer.com
+# shrubsgame.com
+# shrubsgames.com
+# siclegame.com
+# sinkgamer.com
+172.65.185.109
+# softenergame.com
+156.239.74.121
+# stovegamer.com
+23.227.38.32
+# sweatergamer.com
+188.114.97.4
+38.6.100.79
+103.224.212.147
+104.21.21.136
+# wardgamer.com
+# washgamer.com
+13.223.25.84
+154.218.152.166
+# wokgamer.com
+# yuyibld.com
+156.253.156.148
+104.21.71.30
+104.21.48.21
+# omac.fun
+# vopos.fun
+# jino.fun
+103.112.185.178
+# lollyroom.top
+# xqbdh66.com
+# peraic.dev
+77.37.83.15
+198.251.84.236
+# yintao02.com
+# quantumcodrise.us
+# purplepeacockbyneera.com
+188.114.96.0
+# davegas-casino-online.com
+# pinup-yeni-adresi-mobi.com
+# pinupyeniadresimobi.com
+# pinupcasinoguncelgiris.com
+# theshivalya.com
+# sh-mogu.com
+104.21.68.118
+188.114.96.0
+# quanitumgamer.com
+# sparkgamet.com
+# Lydelah.com
+# elitegamey.com
+# lividgamey.com
+# rosygameu.com
