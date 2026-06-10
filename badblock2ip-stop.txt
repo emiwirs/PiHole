@@ -159,9 +159,9 @@
 # playtopia.pro
 107.167.63.152
 142.251.142.193
-188.114.96.0
+# 188.114.96.0
 # crazyfantasygame.com
-188.114.97.0
+# 188.114.97.0
 # newsspotz.com
 # shenghuijuzhifeng.top
 # zippygamez.com
