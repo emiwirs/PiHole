@@ -1,3 +1,5 @@
 mask.apple-dns.net
 mask.icloud.com
 mask-api.icloud.com
+*.mask.apple-dns.net
+*.mask.icloud.com
