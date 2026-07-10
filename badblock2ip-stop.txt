@@ -821,8 +821,8 @@
 # g1.toolol.top
 # game.echoloot.pro
 # game.playbuzz.online
-172.217.17.211
-172.217.17.211
+# 172.217.17.211
+# 172.217.17.211
 # gamecatter.com
 # gamecooky.com
 # gamehunterrealm.top
